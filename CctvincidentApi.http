@@ -1,0 +1,6 @@
+@CctvincidentApi_HostAddress = http://localhost:5030
+
+GET {{CctvincidentApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
