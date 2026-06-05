@@ -16,3 +16,4 @@ public class IncidentReport
     public string TimeRange { get; set; } = string.Empty;
     public DateTime GeneratedAt { get; set; } = DateTime.UtcNow;
 }
+

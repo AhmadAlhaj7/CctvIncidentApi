@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CctvincidentApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3592280c819dd45e4257fe292f8a70f41bc8640")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b1af7014a66cd5ba8be1b7483f6c3b60042e4c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CctvincidentApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CctvincidentApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
