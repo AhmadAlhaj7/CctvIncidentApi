@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahmed\\CctvincidentApi\\CctvincidentApi.csproj": {}
+    "C:\\Users\\User\\Documents\\CctvIncidentApi\\CctvincidentApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahmed\\CctvincidentApi\\CctvincidentApi.csproj": {
+    "C:\\Users\\User\\Documents\\CctvIncidentApi\\CctvincidentApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahmed\\CctvincidentApi\\CctvincidentApi.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\CctvIncidentApi\\CctvincidentApi.csproj",
         "projectName": "CctvincidentApi",
-        "projectPath": "C:\\Users\\Ahmed\\CctvincidentApi\\CctvincidentApi.csproj",
-        "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahmed\\CctvincidentApi\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\CctvIncidentApi\\CctvincidentApi.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\CctvIncidentApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
