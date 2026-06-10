@@ -2,7 +2,8 @@ public enum IncidentLevel
 {
     Low,
     Medium,
-    High
+    High,
+    Critical
 }
 
 public class IncidentReport
